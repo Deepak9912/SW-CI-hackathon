@@ -1,6 +1,6 @@
 # SW-CI-hackathon
 ## Jedi Battle Academy
-Link to the website https://jedi-battle-academy.onrender.com/
+Link to the website [Here](https://jedi-battle-academy.onrender.com/)
 
 ## How to Play
 - Select your warrior.
